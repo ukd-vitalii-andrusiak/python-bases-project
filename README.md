@@ -1,4 +1,4 @@
-# python-bases-project
+# NBU exchange rates programm
 Small project for the subject "Bases of Python" 3rd year.
 
 ## Setup
